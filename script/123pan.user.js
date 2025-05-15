@@ -4,6 +4,8 @@
 // @version      1.0
 // @description  登录123云盘后自动提取真实下载地址实现不限速下载，并自动隐藏广告轮播图和提示弹窗。
 // @match        https://www.123pan.c*/*
+// @updateURL    https://cdn.jsdelivr.net/gh/cyy168/123script@latest/script/123pan.user.js
+// @downloadURL  https://cdn.jsdelivr.net/gh/cyy168/123script@latest/script/123pan.user.js
 // @grant        none
 // ==/UserScript==
 
